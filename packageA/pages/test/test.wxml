@@ -1,0 +1,4 @@
+<!--packageA/pages/test/test.wxml-->
+<text>packageA/pages/test/test.wxml</text>
+<view>另一个页面</view>
+<tabBar id="tabbar" active="1" selected="{{selected}}"></tabBar>

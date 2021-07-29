@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "tabBar": "/new-tab-bar/index"
+  },
+  "navigationBarTitleText": "页面"
+}

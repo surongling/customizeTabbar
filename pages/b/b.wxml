@@ -1,0 +1,3 @@
+<!--pages/b/b.wxml-->
+<text>pages/b/b.wxml</text>
+<tabBar id="tabbar" active="1"></tabBar>

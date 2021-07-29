@@ -1,0 +1,4 @@
+<!--packageA/pages/new/new.wxml-->
+<text>packageA/pages/new/new.wxml</text>
+<view>无语</view>
+<tabBar id="tabbar" active="0" selected="{{selected}}"></tabBar>

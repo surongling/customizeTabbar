@@ -1,0 +1,13 @@
+<!--logs.wxml-->
+<view class="container log-list">
+  <!-- <block wx:for="{{logs}}" wx:key="timeStamp" wx:for-item="log">
+    <text class="log-item">{{index + 1}}. {{log.date}}</text>
+  </block> -->
+  <!-- <view wx:for="{{logs}}" wx:key="{{index}}" class="item">
+    <text>{{item.title}}</text>
+  </view> -->
+  <view class="flex_l_r_c" wx:for="{{listData}}" wx:key="id" class="item">
+    <view>{{item.memberNickname}}</view>
+    <view>{{item.countDown}}</view>
+  </view>
+</view>
